@@ -1,0 +1,2 @@
+# Zeki
+Herkes kazansın
