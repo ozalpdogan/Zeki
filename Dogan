@@ -1,0 +1,7 @@
+echo "# Zeki" >> README.md 
+git init 
+git ekle README.md 
+git commit -m "ilk commit" 
+git branch -M ana 
+git uzaktan kaynak ekle https://github.com/ozalpdogan/Zeki.git
+ git itme - sen asıl ana
